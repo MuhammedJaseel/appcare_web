@@ -1,5 +1,7 @@
+import PublicHomePage from "./screen/home";
+
 function App() {
-  return "Iam App Care";
+  return <PublicHomePage />;
 }
 
 export default App;
